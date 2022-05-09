@@ -23,4 +23,4 @@ Algunas características que tiene son:
 - *Número de Instancias*: 515345
 - *Número de Atributos*: 90
 
-**Liga al Dataset**: Puedes descargar el conjunto de datos [AQUÍ](https://archive.ics.uci.edu/ml/datasets/YearPredictionMSD) 
+**Liga al Dataset**: Puedes descargar el conjunto de datos [AQUÍ](https://archive.ics.uci.edu/ml/datasets/YearPredictionMSD)
