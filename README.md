@@ -6,6 +6,10 @@
 - Leyva Contreras José Alberto
 - Monge Tinoco Manuel Crisólogo
 
+## Problemática
+
+Se predecirá el año de lanzamiento de una canción a partir de las características del audio; específicamente: el [timbre](https://es.wikipedia.org/wiki/Timbre_(ac%C3%BAstica)).
+
 ## Conjunto de Datos
 
 El conjunto de Datos se llama **YearPredictionMCD**, un subconjunto de datos del Million Song Dataset.
